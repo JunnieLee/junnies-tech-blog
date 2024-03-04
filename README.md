@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm Junnie, a passionate Junior Frontend Developer with three years of experience in crafting dynamic and user-friendly web applications. I've created this repository to share my journey, learnings, and projects with the world.
 
-<img src="/public/static/images/avatar.png" alt="image" width="40%" height="auto" style="border-radius:50%">
+<img src="/public/static/images/avatar.png" alt="image" width="40%" height="auto" style="border-radius:50px">
 
 ## About Me
 With a background in Consumer Science and Computer Science, I've been fascinated by the power of front-end technologies and their impact on user experience. I am continuously exploring new technologies and methodologies to improve my skills.
