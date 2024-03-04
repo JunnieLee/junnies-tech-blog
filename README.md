@@ -10,16 +10,16 @@ With a background in Consumer Science and Computer Science, I've been fascinated
 ## Blog Overview
 In this blog, I'll be posting:
 
-#### 💡 Tutorials and Guides: 
+#### 💡 Tutorials and Guides
 Step-by-step articles to help beginners and fellow developers understand complex concepts and tasks.
 
-#### 💡 Project Showcases: 
+#### 💡 Project Showcases
 A deep dive into the projects I've worked on, including the challenges faced and the solutions implemented.
 
-#### 💡 Learning Experiences: 
+#### 💡 Learning Experiences
 My reflections on new technologies, courses, and books that I find valuable.
 
-#### 💡 Development Tips: 
+#### 💡 Development Tips
 Practical advice and best practices that I've learned through my experience as a developer.
 
 #### 💡 Contributing
