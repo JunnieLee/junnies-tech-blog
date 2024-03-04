@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm Junnie, a passionate Junior Frontend Developer with three years of experience in crafting dynamic and user-friendly web applications. I've created this repository to share my journey, learnings, and projects with the world.
 
-<img src="/public/static/images/avatar.png" alt="image" width="40%" height="auto" style="border-radius:50px">
+<img src="/public/static/images/avatar.png" alt="image" width="40%" height="auto" style="border: 1px solid; border-radius:50px">
 
 ## About Me
 With a background in Consumer Science and Computer Science, I've been fascinated by the power of front-end technologies and their impact on user experience. I am continuously exploring new technologies and methodologies to improve my skills.
@@ -10,19 +10,19 @@ With a background in Consumer Science and Computer Science, I've been fascinated
 ## Blog Overview
 In this blog, I'll be posting:
 
-### Tutorials and Guides: 
+#### 💡 Tutorials and Guides: 
 Step-by-step articles to help beginners and fellow developers understand complex concepts and tasks.
 
-### Project Showcases: 
+#### 💡 Project Showcases: 
 A deep dive into the projects I've worked on, including the challenges faced and the solutions implemented.
 
-### Learning Experiences: 
+#### 💡 Learning Experiences: 
 My reflections on new technologies, courses, and books that I find valuable.
 
-### Development Tips: 
+#### 💡 Development Tips: 
 Practical advice and best practices that I've learned through my experience as a developer.
 
-### Contributing
+#### 💡 Contributing
 I believe in the power of community and collaboration. If you have any suggestions, corrections, or want to contribute to this blog, please feel free to open an issue or submit a pull request. Your feedback is highly appreciated!
 
 # Stay Connected
